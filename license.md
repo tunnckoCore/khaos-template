@@ -23,6 +23,8 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 
 
+[downloads-img]: http://img.shields.io/npm/dm/coreflow-templates.svg
+
 [npmjs-url]: http://npm.im/coreflow-templates
 [npmjs-shields]: http://img.shields.io/npm/v/coreflow-templates.svg
 [npmjs-install]: https://nodei.co/npm/coreflow-templates.svg?mini=true

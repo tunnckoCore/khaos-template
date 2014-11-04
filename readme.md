@@ -1,11 +1,10 @@
 # coreflow-templates
 > description
 
-## Badges [![NPM version][npmjs-shields]][npmjs-url] 
-[![Build Status][travis-img]][travis-url] 
-[![Coveralls][coveralls-shields]][coveralls-url]  
+## Badges [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Coveralls][coveralls-shields]][coveralls-url] [![Dependency Status][depstat-img]][depstat-url]
 [![Using ferver][ferver-img]][ferver-url]
-[![Dependency Status][depstat-img]][depstat-url]
+[![MIT license][license-img]][license-url]
+[![Downloads][downloads-img]][npmjs-url]
 
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
 > Install with [npm](https://npmjs.org)
@@ -45,6 +44,8 @@ Copyright (c) 2014 [Charlike Mike Reagent][author-website], [contributors](https
 Released under the [`MIT`][license-url] license.
 
 
+
+[downloads-img]: http://img.shields.io/npm/dm/coreflow-templates.svg
 
 [npmjs-url]: http://npm.im/coreflow-templates
 [npmjs-shields]: http://img.shields.io/npm/v/coreflow-templates.svg
