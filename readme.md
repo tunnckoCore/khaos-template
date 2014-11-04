@@ -1,7 +1,7 @@
-## [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url] [![Coveralls][coveralls-shields]][coveralls-url] [![Using ferver][ferver-img]][ferver-url]
-
 # coreflow-templates [![Downloads][downloads-img]][npmjs-url]
 > description
+
+## [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url] [![Coveralls][coveralls-shields]][coveralls-url] [![Using ferver][ferver-img]][ferver-url]
 
 
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
