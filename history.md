@@ -1,3 +1,6 @@
+## v0.0.2 / November 4, 2014
+- styling, ordering
+
 ## v0.0.1 / November 4, 2014
 - initial commits
 
