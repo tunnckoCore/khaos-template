@@ -4,8 +4,6 @@
 [![Dependency Status][depstat-img]][depstat-url]
 [![Coveralls][coveralls-shields]][coveralls-url]
 
-***
-
 # coreflow-templates
 > description
 
