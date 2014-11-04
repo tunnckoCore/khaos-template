@@ -1,13 +1,18 @@
 # templates [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url] [![Coveralls][coveralls-shields]][coveralls-url]
 > description
 
-
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
 > Install with [npm](https://npmjs.org)
 
 ```
 $ npm install coreflow-templates -g
 ```
+
+## Badges
+[![NPM Version][npm-required-version-img]][node-required-version-url]
+[![Node.js Version][node-required-version-img]][node-required-version-url]
+[![Downloads][downloads-img]][npmjs-url]
+[![Using ferver][ferver-img]][ferver-url]
 
 ## Usage
 
@@ -26,13 +31,7 @@ $ npm test
 ## API
 
 
-## Badges
-[![NPM Version][npm-required-version-img]][node-required-version-url]
-[![Node.js Version][node-required-version-img]][node-required-version-url]
-[![Downloads][downloads-img]][npmjs-url]
-[![MIT license][license-img]][license-url]
-[![Using ferver][ferver-img]][ferver-url]
-[![Author tips][author-gittip-img]][author-gittip]
+
 
 ## Authors & Contributors
 
