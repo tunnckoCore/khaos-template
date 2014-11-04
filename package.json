@@ -21,7 +21,9 @@
     "url": "git://github.com/tunnckoCore/coreflow-templates.git"
   },
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "native-or-another": "*"
+  },
   "devDependencies": {
     "coveralls": "*",
     "istanbul": "*",
