@@ -2,10 +2,7 @@
 > description
 
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
-[![NPM Version][npm-required-version-img]](https://npmjs.org)
-[![Node.js Version][node-required-version-img]][node-required-version-url]
-[![Downloads][downloads-img]][npmjs-url]
-[![Using ferver][ferver-img]][ferver-url]
+> Install with [npm](https://npmjs.org)
 
 ```
 $ npm install coreflow-templates -g
