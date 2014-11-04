@@ -27,12 +27,13 @@ $ npm test
 
 
 ## Badges
+[![NPM Version][npm-required-version-img]][node-required-version-url]
+[![Node.js Version][node-required-version-img]][node-required-version-url]
 [![NPM module version][npmjs-shields]][npmjs-url]
 [![Build Status][travis-img]][travis-url]
 [![Dependency Status][depstat-img]][depstat-url]
 [![Coveralls][coveralls-shields]][coveralls-url]
 [![Downloads][downloads-img]][npmjs-url]
-[![Node.js Version][node-version-image]][node-version-url]
 [![MIT license][license-img]][license-url]
 [![Using ferver][ferver-img]][ferver-url]
 [![Author tips][author-gittip-img]][author-gittip]
@@ -54,8 +55,10 @@ Released under the [`MIT`][license-url] license.
 
 [downloads-img]: http://img.shields.io/npm/dm/coreflow-templates.svg
 
-[node-version-image]: https://img.shields.io/node/v/coreflow-templates.svg
-[node-version-url]: http://nodejs.org/download/
+[npm-required-version-img]: http://img.shields.io/badge/npm-%3E=%201.4.28-brightgreen.svg
+
+[node-required-version-img]: https://img.shields.io/node/v/coreflow-templates.svg
+[node-required-version-url]: http://nodejs.org/download/
 
 [npmjs-url]: http://npm.im/coreflow-templates
 [npmjs-shields]: http://img.shields.io/npm/v/coreflow-templates.svg
