@@ -1,7 +1,7 @@
 {
   "private": "true",
-  "name": "reponame",
-  "version": "0.0.0",
+  "name": "coreflow-templates",
+  "version": "0.0.1",
   "description": "description",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tunnckoCore/reponame.git"
+    "url": "git://github.com/tunnckoCore/coreflow-templates.git"
   },
   "keywords": [],
   "dependencies": {},
@@ -31,14 +31,14 @@
   },
   "licenses": [{
     "type": "MIT",
-    "url": "https://github.com/tunnckoCore/reponame/blob/master/license.md"
+    "url": "https://github.com/tunnckoCore/coreflow-templates/blob/master/license.md"
   }],
   "engines": {
     "node": ">= 0.10.0",
     "npm": ">= 1.4.28"
   },
   "bin": {
-    "reponame": "bin/cli.js"
+    "coreflow-templates": "bin/cli.js"
   },
   "preferGlobal": "true"
 }

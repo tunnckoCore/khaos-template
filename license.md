@@ -1,4 +1,4 @@
-Copyright (c) 2014 [Charlike Mike Reagent][author-website], [contributors](https://github.com/tunnckoCore/reponame/graphs/contributors).  
+Copyright (c) 2014 [Charlike Mike Reagent][author-website], [contributors](https://github.com/tunnckoCore/coreflow-templates/graphs/contributors).  
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -23,21 +23,21 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 
 
-[npmjs-url]: http://npm.im/reponame
-[npmjs-shields]: http://img.shields.io/npm/v/reponame.svg
-[npmjs-install]: https://nodei.co/npm/reponame.svg?mini=true
+[npmjs-url]: http://npm.im/coreflow-templates
+[npmjs-shields]: http://img.shields.io/npm/v/coreflow-templates.svg
+[npmjs-install]: https://nodei.co/npm/coreflow-templates.svg?mini=true
 
-[coveralls-url]: https://coveralls.io/r/tunnckoCore/reponame?branch=master
-[coveralls-shields]: https://img.shields.io/coveralls/tunnckoCore/reponame.svg
+[coveralls-url]: https://coveralls.io/r/tunnckoCore/coreflow-templates?branch=master
+[coveralls-shields]: https://img.shields.io/coveralls/tunnckoCore/coreflow-templates.svg
 
-[license-url]: https://github.com/tunnckoCore/reponame/blob/master/license.md
+[license-url]: https://github.com/tunnckoCore/coreflow-templates/blob/master/license.md
 [license-img]: http://img.shields.io/badge/license-MIT-blue.svg
 
-[travis-url]: https://travis-ci.org/tunnckoCore/reponame
-[travis-img]: https://travis-ci.org/tunnckoCore/reponame.svg?branch=master
+[travis-url]: https://travis-ci.org/tunnckoCore/coreflow-templates
+[travis-img]: https://travis-ci.org/tunnckoCore/coreflow-templates.svg?branch=master
 
-[depstat-url]: https://david-dm.org/tunnckoCore/reponame
-[depstat-img]: https://david-dm.org/tunnckoCore/reponame.svg
+[depstat-url]: https://david-dm.org/tunnckoCore/coreflow-templates
+[depstat-img]: https://david-dm.org/tunnckoCore/coreflow-templates.svg
 
 [ferver-img]: http://img.shields.io/badge/using-ferver-585858.svg
 [ferver-url]: https://github.com/jonathanong/ferver
