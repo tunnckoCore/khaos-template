@@ -1,4 +1,4 @@
-# templates [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url] [![Coveralls][coveralls-shields]][coveralls-url]
+# templates [![NPM version][npmjs-fury]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url] [![Coveralls][coveralls-shields]][coveralls-url]
 > description
 
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
@@ -14,9 +14,7 @@ $ npm install coreflow-templates -g
 ## Usage
 
 
-## Tests
-> As usual - `npm test` **or** if you have [mocha][mocha-url] globally - `mocha`.
-
+## Run tests
 ```
 $ npm test
 ```
@@ -47,13 +45,13 @@ Released under the [`MIT`][license-url] license.
 
 [downloads-img]: http://img.shields.io/npm/dm/coreflow-templates.svg
 
-[npm-required-version-img]: http://img.shields.io/badge/npm-%3E=%201.4.28-brightgreen.svg
+[npm-required-version-img]: http://img.shields.io/badge/npm-%3E=%201.4.28-blue.svg
 
 [node-required-version-img]: https://img.shields.io/node/v/coreflow-templates.svg
 [node-required-version-url]: http://nodejs.org/download/
 
 [npmjs-url]: http://npm.im/coreflow-templates
-[npmjs-shields]: http://img.shields.io/npm/v/coreflow-templates.svg
+[npmjs-fury]: https://badge.fury.io/js/coreflow-templates.svg
 [npmjs-install]: https://nodei.co/npm/coreflow-templates.svg?mini=true
 
 [coveralls-url]: https://coveralls.io/r/tunnckoCore/coreflow-templates?branch=master
