@@ -1,10 +1,7 @@
-# coreflow-templates
+# coreflow-templates [![Downloads][downloads-img]][npmjs-url]
 > description
 
-## Badges [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Coveralls][coveralls-shields]][coveralls-url] [![Dependency Status][depstat-img]][depstat-url]
-[![Using ferver][ferver-img]][ferver-url]
-[![MIT license][license-img]][license-url]
-[![Downloads][downloads-img]][npmjs-url]
+## Badges [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url] [![Coveralls][coveralls-shields]][coveralls-url] [![Using ferver][ferver-img]][ferver-url]
 
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
 > Install with [npm](https://npmjs.org)
