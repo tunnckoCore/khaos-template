@@ -29,10 +29,6 @@ $ npm test
 ## Badges
 [![NPM Version][npm-required-version-img]][node-required-version-url]
 [![Node.js Version][node-required-version-img]][node-required-version-url]
-[![NPM module version][npmjs-shields]][npmjs-url]
-[![Build Status][travis-img]][travis-url]
-[![Dependency Status][depstat-img]][depstat-url]
-[![Coveralls][coveralls-shields]][coveralls-url]
 [![Downloads][downloads-img]][npmjs-url]
 [![MIT license][license-img]][license-url]
 [![Using ferver][ferver-img]][ferver-url]
