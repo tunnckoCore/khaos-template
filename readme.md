@@ -1,4 +1,4 @@
-# templates [![NPM version][npmjs-fury]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url] [![Coveralls][coveralls-shields]][coveralls-url]
+# templates [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url] [![Coveralls][coveralls-shields]][coveralls-url]
 > description
 
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
@@ -8,7 +8,7 @@
 [![Using ferver][ferver-img]][ferver-url]
 
 ```
-$ npm install koa-better-body -g
+$ npm install coreflow-templates -g
 ```
 
 ## Usage
@@ -38,33 +38,32 @@ $ npm test
 + [more ...][author-more]
 
 ## License [![MIT license][license-img]][license-url]
-Copyright (c) 2014 [Charlike Mike Reagent][author-website], [contributors](https://github.com/tunnckoCore/koa-better-body/graphs/contributors).  
+Copyright (c) 2014 [Charlike Mike Reagent][author-website], [contributors](https://github.com/tunnckoCore/coreflow-templates/graphs/contributors).  
 Released under the [`MIT`][license-url] license.
 
 
 
-[downloads-img]: http://img.shields.io/npm/dm/koa-better-body.svg
-
+[downloads-img]: http://img.shields.io/npm/dm/coreflow-templates.svg
 [npm-required-version-img]: http://img.shields.io/badge/npm-%3E=%201.4.28-blue.svg
-
-[node-required-version-img]: https://img.shields.io/node/v/koa-better-body.svg
+[node-required-version-img]: https://img.shields.io/node/v/coreflow-templates.svg
 [node-required-version-url]: http://nodejs.org/download/
 
-[npmjs-url]: http://npm.im/koa-better-body
-[npmjs-fury]: https://badge.fury.io/js/koa-better-body.svg
-[npmjs-install]: https://nodei.co/npm/koa-better-body.svg?mini=true
+[npmjs-url]: http://npm.im/coreflow-templates
+[npmjs-fury]: https://badge.fury.io/js/coreflow-templates.svg
+[npmjs-shields]: https://img.shields.io/npm/v/coreflow-templates.svg
+[npmjs-install]: https://nodei.co/npm/coreflow-templates.svg?mini=true
 
-[coveralls-url]: https://coveralls.io/r/tunnckoCore/koa-better-body?branch=master
-[coveralls-shields]: https://img.shields.io/coveralls/tunnckoCore/koa-better-body.svg
+[coveralls-url]: https://coveralls.io/r/tunnckoCore/coreflow-templates?branch=master
+[coveralls-shields]: https://img.shields.io/coveralls/tunnckoCore/coreflow-templates.svg
 
-[license-url]: https://github.com/tunnckoCore/koa-better-body/blob/master/license.md
+[license-url]: https://github.com/tunnckoCore/coreflow-templates/blob/master/license.md
 [license-img]: http://img.shields.io/badge/license-MIT-blue.svg
 
-[travis-url]: https://travis-ci.org/tunnckoCore/koa-better-body
-[travis-img]: https://travis-ci.org/tunnckoCore/koa-better-body.svg?branch=master
+[travis-url]: https://travis-ci.org/tunnckoCore/coreflow-templates
+[travis-img]: https://travis-ci.org/tunnckoCore/coreflow-templates.svg?branch=master
 
-[depstat-url]: https://david-dm.org/tunnckoCore/koa-better-body
-[depstat-img]: https://david-dm.org/tunnckoCore/koa-better-body.svg
+[depstat-url]: https://david-dm.org/tunnckoCore/coreflow-templates
+[depstat-img]: https://david-dm.org/tunnckoCore/coreflow-templates.svg
 
 [ferver-img]: http://img.shields.io/badge/using-ferver-585858.svg
 [ferver-url]: https://github.com/jonathanong/ferver
