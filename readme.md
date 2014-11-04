@@ -1,7 +1,3 @@
-# coreflow-templates 
-> description
-
-
 [![NPM version][npmjs-shields]][npmjs-url]
 [![Build Status][travis-img]][travis-url]
 [![Dependency Status][depstat-img]][depstat-url]
@@ -9,6 +5,8 @@
 [![Downloads][downloads-img]][npmjs-url]
 [![Using ferver][ferver-img]][ferver-url]
 
+## coreflow-templates 
+> description
 
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
 > Install with [npm](https://npmjs.org)
