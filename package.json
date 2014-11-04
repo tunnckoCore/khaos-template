@@ -1,7 +1,6 @@
 {
-  "private": "true",
   "name": "coreflow-templates",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "description",
   "main": "index.js",
   "scripts": {

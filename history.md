@@ -1,3 +1,6 @@
+## v0.0.3 / November 4, 2014
+- final style
+
 ## v0.0.2 / November 4, 2014
 - styling, ordering
 
@@ -6,9 +9,13 @@
 
 
 [downloads-img]: http://img.shields.io/npm/dm/coreflow-templates.svg
+[npm-required-version-img]: http://img.shields.io/badge/npm-%3E=%201.4.28-blue.svg
+[node-required-version-img]: https://img.shields.io/node/v/coreflow-templates.svg
+[node-required-version-url]: http://nodejs.org/download/
 
 [npmjs-url]: http://npm.im/coreflow-templates
-[npmjs-shields]: http://img.shields.io/npm/v/coreflow-templates.svg
+[npmjs-fury]: https://badge.fury.io/js/coreflow-templates.svg
+[npmjs-shields]: https://img.shields.io/npm/v/coreflow-templates.svg
 [npmjs-install]: https://nodei.co/npm/coreflow-templates.svg?mini=true
 
 [coveralls-url]: https://coveralls.io/r/tunnckoCore/coreflow-templates?branch=master
