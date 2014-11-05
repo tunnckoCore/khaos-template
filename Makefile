@@ -3,7 +3,7 @@ install:
 
 lint:
 	$(MAKE) install
-	jshint ./**/*.js
+	jshint bin/*.js lib/*.js test/*.js index.js
 
 test:
 	$(MAKE) lint
@@ -11,10 +11,10 @@ test:
 
 test-cov:
 	$(MAKE) test
-	@NODE_ENV=test istanbul cover node_modules/mocha/bin/_mocha
+	@NODE_ENV=test node_modules/.bin/istanbul cover node_modules/.bin/_mocha
 
 test-travis:
 	$(MAKE) test
-	@NODE_ENV=test istanbul cover node_modules/mocha/bin/_mocha --report lcovonly
+	@NODE_ENV=test node_modules/.bin/istanbul cover node_modules/.bin/_mocha --report lcovonly
 
 .PHONY: test lint
