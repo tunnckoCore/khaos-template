@@ -7,6 +7,8 @@
 
 'use strict';
 
-/**
- * Module dependencies.
- */
+var coreflowTemplates = require('./index');
+
+describe('coreflow-templates:', function() {
+  // body
+});

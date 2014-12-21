@@ -1,84 +1,66 @@
-# templates [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url] [![Coveralls][coveralls-shields]][coveralls-url]
-> description
+[![npm version][npmjs-img]][npmjs-url]
+[![mit license][license-img]][license-url]
+[![build status][travis-img]][travis-url]
+[![coverage status][coveralls-img]][coveralls-url]
+[![deps status][daviddm-img]][daviddm-url]
+==
+> wip
 
-## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
-> Install with [npm](https://npmjs.org)
+## Install
+```bash
+npm install coreflow-templates
+npm test
+```
 
-```
-$ npm install coreflow-templates -g
-```
 
 ## Usage
+> For more use-cases see the [tests](./test.js)
 
-
-## Run tests
+```js
+var coreflowTemplates = require('coreflow-templates');
 ```
-$ npm test
-```
 
 
-## CLI
+## API / CLI
 
 
-## API
-
-
-
-
-## Authors & Contributors
-
-**Charlike Mike Reagent** [![author tips][author-gittip-img]][author-gittip]
-+ [gittip/tunnckoCore][author-gittip]
-+ [github/tunnckoCore][author-github]
+## Author
+**Charlike Mike Reagent**
++ [gratipay/tunnckoCore][author-gratipay]
 + [twitter/tunnckoCore][author-twitter]
++ [github/tunnckoCore][author-github]
 + [npmjs/tunnckoCore][author-npmjs]
-+ [more ...][author-more]
++ [more ...][contrib-more]
+
 
 ## License [![MIT license][license-img]][license-url]
-Copyright (c) 2014 [Charlike Mike Reagent][author-website], [contributors](https://github.com/tunnckoCore/coreflow-templates/graphs/contributors).  
+Copyright (c) 2014 [Charlike Mike Reagent][contrib-more], [contributors][contrib-graf].  
 Released under the [`MIT`][license-url] license.
 
 
-
-[downloads-img]: http://img.shields.io/npm/dm/coreflow-templates.svg
-[npm-required-version-img]: http://img.shields.io/badge/npm-%3E=%201.4.28-blue.svg
-[node-required-version-img]: https://img.shields.io/node/v/coreflow-templates.svg
-[node-required-version-url]: http://nodejs.org/download/
-
 [npmjs-url]: http://npm.im/coreflow-templates
-[npmjs-fury]: https://badge.fury.io/js/coreflow-templates.svg
-[npmjs-shields]: https://img.shields.io/npm/v/coreflow-templates.svg
-[npmjs-install]: https://nodei.co/npm/coreflow-templates.svg?mini=true
+[npmjs-img]: https://img.shields.io/npm/v/coreflow-templates.svg?style=flat&label=coreflow-templates
 
 [coveralls-url]: https://coveralls.io/r/tunnckoCore/coreflow-templates?branch=master
-[coveralls-shields]: https://img.shields.io/coveralls/tunnckoCore/coreflow-templates.svg
+[coveralls-img]: https://img.shields.io/coveralls/tunnckoCore/coreflow-templates.svg?style=flat
 
 [license-url]: https://github.com/tunnckoCore/coreflow-templates/blob/master/license.md
-[license-img]: http://img.shields.io/badge/license-MIT-blue.svg
+[license-img]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
 
 [travis-url]: https://travis-ci.org/tunnckoCore/coreflow-templates
-[travis-img]: https://travis-ci.org/tunnckoCore/coreflow-templates.svg?branch=master
+[travis-img]: https://img.shields.io/travis/tunnckoCore/coreflow-templates.svg?style=flat
 
-[depstat-url]: https://david-dm.org/tunnckoCore/coreflow-templates
-[depstat-img]: https://david-dm.org/tunnckoCore/coreflow-templates.svg
+[daviddm-url]: https://david-dm.org/tunnckoCore/coreflow-templates
+[daviddm-img]: https://img.shields.io/david/tunnckoCore/coreflow-templates.svg?style=flat
 
-[ferver-img]: http://img.shields.io/badge/using-ferver-585858.svg
-[ferver-url]: https://github.com/jonathanong/ferver
-
-[author-gittip-img]: http://img.shields.io/gittip/tunnckoCore.svg
-[author-gittip]: https://www.gittip.com/tunnckoCore
-[author-github]: https://github.com/tunnckoCore
+[author-gratipay]: https://gratipay.com/tunnckoCore
 [author-twitter]: https://twitter.com/tunnckoCore
-[author-website]: http://www.whistle-bg.tk
+[author-github]: https://github.com/tunnckoCore
 [author-npmjs]: https://npmjs.org/~tunnckocore
-[author-more]: http://j.mp/1stW47C
 
-[cobody-url]: https://github.com/tj/co-body
-[mocha-url]: https://github.com/tj/mocha
-[rawbody-url]: https://github.com/stream-utils/raw-body
-[multer-url]: https://github.com/expressjs/multer
-[express-url]: https://github.com/strongloop/express
-[formidable-url]: https://github.com/felixge/node-formidable
-[co-url]: https://github.com/tj/co
-[extend-url]: https://github.com/justmoon/node-extend
-[csp-report]: https://mathiasbynens.be/notes/csp-reports
+[contrib-more]: http://j.mp/1stW47C
+[contrib-graf]: https://github.com/tunnckoCore/coreflow-templates/graphs/contributors
+
+***
+
+_Powered and automated by [readdirp + hogan.js](https://github.com/tunnckoCore), December 21, 2014_
