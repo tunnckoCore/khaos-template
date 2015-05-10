@@ -50,7 +50,7 @@ var abbrevKindof = require('abbrev-kindof');
 [freenode-img]: https://img.shields.io/badge/irc-%23charlike-5654a4.svg
 
 [author-www-url]: http://www.tunnckocore.tk
-[author-www-img]: https://img.shields.io/badge/www-tunnckocore.tk-ff9933.svg
+[author-www-img]: https://img.shields.io/badge/www-tunnckocore.tk-fe7d37.svg
 
 [author-npm-url]: https://www.npmjs.com/~tunnckocore
 [author-npm-img]: https://img.shields.io/badge/npm-~tunnckocore-db4437.svg
