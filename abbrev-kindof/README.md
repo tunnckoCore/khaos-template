@@ -20,10 +20,8 @@ var abbrevKindof = require('abbrev-kindof');
 ```
 
 
-***
+## [Charlike Make Reagent](http://j.mp/1stW47C) ![freenode #charlike][freenode-img]
 [![tunnckocore.tk][author-www-img]][author-www-url] [![tunnckoCore npm][author-npm-img]][author-npm-url] [![tunnckoCore twitter][author-twitter-img]][author-twitter-url] [![tunnckoCore github][author-github-img]][author-github-url] [![tunnckoCore facebook][author-facebook-img]][author-facebook-url]
-
-[Charlike Make Reagent](http://j.mp/1stW47C), May 11 2015
 
 
 [npmjs-url]: https://www.npmjs.com/package/abbrev-kindof
@@ -48,6 +46,7 @@ var abbrevKindof = require('abbrev-kindof');
 [david-url]: https://david-dm.org/tunnckoCore/abbrev-kindof
 [david-img]: https://img.shields.io/david/tunnckoCore/abbrev-kindof.svg
 
+[freenode-img]: https://img.shields.io/badge/irc-%23charlike-2a5934.svg
 
 [author-www-url]: http://www.tunnckocore.tk
 [author-www-img]: https://img.shields.io/badge/www-tunnckocore.tk-ff9933.svg
