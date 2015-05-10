@@ -22,6 +22,7 @@ var {{camelcase (default name basename)}} = require('{{default name basename}}')
 
 ***
 [![tunnckocore.tk][author-www-img]][author-www-url] [![tunnckoCore npm][author-npm-img]][author-npm-url] [![tunnckoCore twitter][author-twitter-img]][author-twitter-url] [![tunnckoCore github][author-github-img]][author-github-url] [![tunnckoCore facebook][author-facebook-img]][author-facebook-url]
+
 [Charlike Make Reagent](http://j.mp/1stW47C), {{date date 'MMMM DD YYYY'}}
 
 
