@@ -53,7 +53,7 @@ var abbrevKindof = require('abbrev-kindof');
 [author-www-img]: https://img.shields.io/badge/www-tunnckocore.tk-fe7d37.svg
 
 [author-npm-url]: https://www.npmjs.com/~tunnckocore
-[author-npm-img]: https://img.shields.io/badge/npm-~tunnckocore-db4437.svg
+[author-npm-img]: https://img.shields.io/badge/npm-~tunnckocore-cb3837.svg
 
 [author-twitter-url]: https://twitter.com/tunnckoCore
 [author-twitter-img]: https://img.shields.io/badge/twitter-@tunnckoCore-55acee.svg
