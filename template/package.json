@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/{{owner}}/{{name}}.git"
+    "url": "git://github.com/{{default owner 'tunnckoCore'}}/{{name}}.git"
   },
   "keywords": [],
   "license": {
     "type": "MIT",
-    "url": "https://github.com/{{owner}}/{{name}}/blob/master/LICENSE.md"
+    "url": "https://github.com/{{default owner 'tunnckoCore'}}/{{name}}/blob/master/LICENSE.md"
   },
   "dependencies": {},
   "devDependencies": {
