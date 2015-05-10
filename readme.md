@@ -1,10 +1,10 @@
-## [![npm version][npmjs-img]][npmjs-url] [![mit license][license-img]][license-url] [![build status][travis-img]][travis-url] [![coverage status][coveralls-img]][coveralls-url] [![deps status][daviddm-img]][daviddm-url]
+[![npm][npmjs-img]][npmjs-url][![standard style][standard-img]][standard-url][![build status][travis-img]][travis-url][![coverage status][coveralls-img]][coveralls-url][![deps status][daviddm-img]][daviddm-url]
 
 > wip
 
 ## Install
 ```bash
-npm install coreflow-templates
+npm install jstransformer-css-whitespace
 npm test
 ```
 
@@ -13,7 +13,7 @@ npm test
 > For more use-cases see the [tests](./test.js)
 
 ```js
-var coreflowTemplates = require('coreflow-templates');
+var coreflowTemplates = require('jstransformer-css-whitespace');
 ```
 
 
@@ -34,20 +34,20 @@ Copyright (c) 2014 [Charlike Mike Reagent][contrib-more], [contributors][contrib
 Released under the [`MIT`][license-url] license.
 
 
-[npmjs-url]: http://npm.im/coreflow-templates
-[npmjs-img]: https://img.shields.io/npm/v/coreflow-templates.svg?style=flat&label=coreflow-templates
+[npmjs-url]: http://npm.im/jstransformer-css-whitespace
+[npmjs-img]: https://img.shields.io/npm/v/jstransformer-css-whitespace.svg?style=flat-square&label=jstransformer-css-whitespace
 
-[coveralls-url]: https://coveralls.io/r/tunnckoCore/coreflow-templates?branch=master
-[coveralls-img]: https://img.shields.io/coveralls/tunnckoCore/coreflow-templates.svg?style=flat
+[coveralls-url]: https://coveralls.io/r/tunnckoCore/jstransformer-css-whitespace
+[coveralls-img]: https://img.shields.io/coveralls/tunnckoCore/jstransformer-css-whitespace.svg?style=flat-square
 
-[license-url]: https://github.com/tunnckoCore/coreflow-templates/blob/master/license.md
-[license-img]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: https://github.com/tunnckoCore/jstransformer-css-whitespace/blob/master/license.md
+[license-img]: https://img.shields.io/npm/l/tunnckoCore/jstransformer-css-whitespace.svg?style=flat-square
 
-[travis-url]: https://travis-ci.org/tunnckoCore/coreflow-templates
-[travis-img]: https://img.shields.io/travis/tunnckoCore/coreflow-templates.svg?style=flat
+[travis-url]: https://travis-ci.org/tunnckoCore/jstransformer-css-whitespace
+[travis-img]: https://img.shields.io/travis/tunnckoCore/jstransformer-css-whitespace.svg?style=flat-square
 
-[daviddm-url]: https://david-dm.org/tunnckoCore/coreflow-templates
-[daviddm-img]: https://img.shields.io/david/tunnckoCore/coreflow-templates.svg?style=flat
+[daviddm-url]: https://david-dm.org/tunnckoCore/jstransformer-css-whitespace
+[daviddm-img]: https://img.shields.io/david/tunnckoCore/jstransformer-css-whitespace.svg?style=flat-square
 
 [author-gratipay]: https://gratipay.com/tunnckoCore
 [author-twitter]: https://twitter.com/tunnckoCore
@@ -55,7 +55,10 @@ Released under the [`MIT`][license-url] license.
 [author-npmjs]: https://npmjs.org/~tunnckocore
 
 [contrib-more]: http://j.mp/1stW47C
-[contrib-graf]: https://github.com/tunnckoCore/coreflow-templates/graphs/contributors
+[contrib-graf]: https://github.com/tunnckoCore/jstransformer-css-whitespace/graphs/contributors
+
+[standard-url]: https://github.com/feross/standard
+[standard-img]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 
 ***
 

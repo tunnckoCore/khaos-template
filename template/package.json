@@ -1,7 +1,7 @@
 {
-  "name": "{{name}}",
+  "name": "{{default name basename}}",
   "version": "0.0.0",
-  "description": "{{description}}",
+  "description": "{{{description}}}",
   "scripts": {
     "test": "standard && node test.js"
   },
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/{{default owner 'tunnckoCore'}}/{{name}}.git"
+    "url": "git://github.com/{{default owner 'tunnckoCore'}}/{{default name basename}}.git"
   },
   "keywords": [],
   "license": {
     "type": "MIT",
-    "url": "https://github.com/{{default owner 'tunnckoCore'}}/{{name}}/blob/master/LICENSE.md"
+    "url": "https://github.com/{{default owner 'tunnckoCore'}}/{{default name basename}}/blob/master/LICENSE.md"
   },
   "dependencies": {},
   "devDependencies": {
