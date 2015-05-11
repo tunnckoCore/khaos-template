@@ -1,15 +1,10 @@
 {
   "name": "coreflow-templates",
-  "version": "0.0.2",
-  "description": "wip",
-  "scripts": {
-    "lint": "jshint . && jscs . --reporter inline",
-    "test": "mocha",
-    "test-cov": "istanbul cover _mocha",
-    "test-travis": "istanbul cover _mocha --report lcovonly"
-  },
+  "version": "0.1.0",
+  "description": "just khaos template for most of my repositories. look https://github.com/tunnckoCore/abbrev-kindof",
+  "scripts": {},
   "author": {
-    "name": "Charlike Make Reagent",
+    "name": "Charlike Mike Reagent",
     "email": "mameto_100@mail.bg",
     "url": "https://github.com/tunnckoCore"
   },
@@ -18,14 +13,7 @@
     "url": "git://github.com/tunnckoCore/coreflow-templates.git"
   },
   "keywords": [],
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/tunnckoCore/coreflow-templates/blob/master/license.md"
-  },
+  "license": "MIT",
   "dependencies": {},
-  "devDependencies": {
-    "istanbul-harmony": "^0.3.1",
-    "mocha": "^2.0.1",
-    "mocha-lcov-reporter": "^0.0.1"
-  }
+  "devDependencies": {}
 }
