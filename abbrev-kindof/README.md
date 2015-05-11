@@ -20,10 +20,10 @@ var abbrevKindof = require('abbrev-kindof');
 ```
 
 
-## [Charlike Make Reagent](http://j.mp/1stW47C) 
 
-[![tunnckocore.tk][author-www-img]][author-www-url] [![tunnckoCore npm][author-npm-img]][author-npm-url] [![tunnckoCore twitter][author-twitter-img]][author-twitter-url] [![tunnckoCore github][author-github-img]][author-github-url] [![tunnckoCore facebook][author-facebook-img]][author-facebook-url]
-[![freenode #charlike][freenode-img]][freenode-url] [![join gitter.im chat][chatroom-img]][chatroom-url] [![new message to charlike][new-message-img]][new-message-url] [![keybase tunnckocore][keybase-img]][keybase-url]
+## [Charlike Make Reagent](http://j.mp/1stW47C) [![new message to charlike][new-message-img]][new-message-url] [![freenode #charlike][freenode-img]][freenode-url]
+
+[![tunnckocore.tk][author-www-img]][author-www-url] [![keybase tunnckocore][keybase-img]][keybase-url] [![tunnckoCore npm][author-npm-img]][author-npm-url] [![tunnckoCore twitter][author-twitter-img]][author-twitter-url] [![tunnckoCore github][author-github-img]][author-github-url]
 
 
 [npmjs-url]: https://www.npmjs.com/package/abbrev-kindof
@@ -49,9 +49,11 @@ var abbrevKindof = require('abbrev-kindof');
 [david-img]: https://img.shields.io/david/tunnckoCore/abbrev-kindof.svg
 
 
-
 [author-www-url]: http://www.tunnckocore.tk
 [author-www-img]: https://img.shields.io/badge/www-tunnckocore.tk-fe7d37.svg
+
+[keybase-url]: https://keybase.io/tunnckocore
+[keybase-img]: https://img.shields.io/badge/keybase-tunnckocore-8a7967.svg
 
 [author-npm-url]: https://www.npmjs.com/~tunnckocore
 [author-npm-img]: https://img.shields.io/badge/npm-~tunnckocore-cb3837.svg
@@ -62,18 +64,9 @@ var abbrevKindof = require('abbrev-kindof');
 [author-github-url]: https://github.com/tunnckoCore
 [author-github-img]: https://img.shields.io/badge/github-@tunnckoCore-4183c4.svg
 
-[author-facebook-url]: https://www.facebook.com/tunnckoCore
-[author-facebook-img]: https://img.shields.io/badge/facebook-@tunnckoCore-3b5998.svg
-
 
 [freenode-url]: http://webchat.freenode.net/?channels=charlike
 [freenode-img]: https://img.shields.io/badge/freenode-%23charlike-5654a4.svg
 
-[chatroom-url]: https://gitter.im/tunnckoCore/messages
-[chatroom-img]: https://img.shields.io/badge/gitter%20-join%20chat-1dce73.svg
-
-[new-message-url]: https://github.com/tunnckoCore/messages/issues/new
-[new-message-img]: https://img.shields.io/badge/new-message-green.svg
-
-[keybase-url]: https://keybase.io/tunnckoCore
-[keybase-img]: https://img.shields.io/badge/keybase-tunnckoCore-8a7967.svg
+[new-message-url]: https://github.com/tunnckoCore/messages
+[new-message-img]: https://img.shields.io/badge/send%20me-message-green.svg
