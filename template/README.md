@@ -16,8 +16,9 @@ npm test
 > For more use-cases see the [tests](./test.js)
 
 ```js
-var {{camelcase (default name basename)}} = require('{{default name basename}}');
+var {{camelcase (default name basename)}} = require('{{default name basename}}')
 ```
+
 
 ## Contributing
 
