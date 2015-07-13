@@ -1,4 +1,4 @@
-# {{default name basename}} [![npmjs.com][npmjs-img]][npmjs-url] [![The MIT License][license-img]][license-url] 
+# [{{default name basename}}][author-www-url] [![npmjs.com][npmjs-img]][npmjs-url] [![The MIT License][license-img]][license-url] 
 
 > {{{description}}}
 
@@ -21,7 +21,6 @@ var {{camelcase (default name basename)}} = require('{{default name basename}}')
 
 
 ## Contributing
-
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/{{default owner 'tunnckoCore'}}/{{default name basename}}/issues/new).  
 But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines.
 
