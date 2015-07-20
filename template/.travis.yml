@@ -22,7 +22,8 @@ script:
 
 after_success:
   - npm install coveralls
-  - cat ./coverage/lcov.info | coveralls
+  - cat coverage/lcov.info | coveralls
+  - mv coverage/lcov.info .
 
 matrix:
   allow_failures:
