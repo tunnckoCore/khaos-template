@@ -13,5 +13,8 @@
   "devDependencies": {
     "assertit": "^0.1.0"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": []
 }
