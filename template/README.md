@@ -8,7 +8,6 @@
 ## Install
 ```
 npm i {{default name basename}} --save
-npm test
 ```
 
 
