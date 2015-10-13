@@ -15,7 +15,7 @@ npm i {{default name basename}} --save
 > For more use-cases see the [tests](./test.js)
 
 ```js
-var {{camelcase (default name basename)}} = require('{{default name basename}}')
+const {{camelcase (default name basename)}} = require('{{default name basename}}')
 ```
 
 
