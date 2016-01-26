@@ -32,7 +32,7 @@ But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) 
 [npmjs-url]: https://www.npmjs.com/package/{{default name basename}}
 [npmjs-img]: https://img.shields.io/npm/v/{{default name basename}}.svg?label={{default name basename}}
 
-[license-url]: https://github.com/{{default owner 'tunnckoCore'}}/{{default name basename}}/blob/master/LICENSE.md
+[license-url]: https://github.com/{{default owner 'tunnckoCore'}}/{{default name basename}}/blob/master/LICENSE
 [license-img]: https://img.shields.io/badge/license-MIT-blue.svg
 
 
