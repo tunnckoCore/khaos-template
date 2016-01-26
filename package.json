@@ -1,11 +1,11 @@
 {
-  "name": "khaos-template",
+  "name": "coreflow-templates",
   "version": "0.16.0",
   "description": "just khaos template for most of my repositories. look https://github.com/tunnckoCore/abbrev-kindof",
-  "repository": "tunnckoCore/khaos-template",
+  "repository": "tunnckoCore/coreflow-templates",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
   "main": "index.js",
-  "license": "MIT", 
+  "license": "MIT",
   "scripts": {},
   "dependencies": {},
   "devDependencies": {
@@ -15,6 +15,8 @@
     "template/"
   ],
   "keywords": [
-    "khaos-template"
+    "coreflow",
+    "khaos",
+    "template"
   ]
 }
