@@ -4,6 +4,7 @@
   "description": "{{{description}}}",
   "repository": "{{default owner 'tunnckoCore'}}/{{default name basename}}",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "precommit.silent": true,
   "main": "index.js",
   "license": "MIT", 
   "scripts": {
@@ -11,7 +12,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "assertit": "^0.1.0"
+    "assertit": "^0.1.0",
+    "pre-commit": "*"
   },
   "files": [
     "index.js"
