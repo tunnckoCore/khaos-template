@@ -4,12 +4,16 @@
   "description": "just khaos template for most of my repositories. look https://github.com/tunnckoCore/abbrev-kindof",
   "repository": "tunnckoCore/coreflow-templates",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "precommit.silent": true,
   "main": "index.js",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "test": "echo ok && exit 0"
+  },
   "dependencies": {},
   "devDependencies": {
-    "assertit": "^0.1.0"
+    "assertit": "^0.1.0",
+    "pre-commit": "*"
   },
   "files": [
     "template/"
