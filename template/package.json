@@ -8,8 +8,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "standard && node test.js",
-    "prepublish": "npm test"
+    "test": "standard && node test.js"
   },
   "dependencies": {},
   "devDependencies": {
