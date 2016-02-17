@@ -9,7 +9,8 @@
   "license": "MIT",
   "scripts": {
     "pretest": "standard",
-    "test": "node test.js"
+    "test": "node test.js",
+    "prepublish": "npm test"
   },
   "dependencies": {},
   "devDependencies": {
