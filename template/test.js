@@ -10,6 +10,7 @@
 var test = require('assertit')
 var {{camelcase (default name basename)}} = require('./index')
 
-test('{{default name basename}}:', function () {
+test('{{default name basename}}:', function (done) {
   // body
+  done()
 })
