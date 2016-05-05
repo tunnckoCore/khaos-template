@@ -7,7 +7,7 @@
 
 'use strict'
 
-var test = require('assertit')
+var test = require('mukla')
 var {{camelcase (default name basename)}} = require('./index')
 
 test('{{default name basename}}:', function (done) {
